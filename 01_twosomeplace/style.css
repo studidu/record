@@ -1,0 +1,45 @@
+* {padding: 0; margin: 0; box-sizing: border-box;}
+
+body {
+    background-image: url('/img/main_back1.jpeg');
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+}
+
+nav { 
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    font-size: 30px;
+    color: white;
+    
+}
+
+nav ul li {
+    padding-right: 60px;
+}
+
+.hidden_menu {
+    width: 100%;
+    background-color: white;
+
+    display: flex;
+    justify-content: space-between;
+    padding-left: 700px;
+    padding-right: 600px;
+
+    display: none;
+
+}
+
+.active {
+    display: flex;
+}
+

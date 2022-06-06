@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="style.css" rel="stylesheet">
+    <title>Document</title>
+</head>
+<body>
+    
+    <header> 
+        <nav>
+            <div class="logo" id="black">
+                <img src="img/common/logo_white.svg">
+            </div>
+
+            <div class="menu" id="black">
+                <ul class="menu_d1">
+                    <li>투썸플레이스 소개
+                        <ul class="menu_d2">
+                            <li>투썸플레이스
+                                <ul class="menu_d3">
+                                    <li>비전체계</li>
+                                    <li>연혁</li>
+                                    <li>BI</li>
+                                    <li>20주년 이야기</li>
+                                    <li>Recruit</li>
+                                </ul>
+                            </li>
+                            <li>매장
+                                <ul class="menu_d3">
+                                    <li>DT/DI</li>
+                                </ul>
+                            </li>
+                            <li>브랜드 브로슈어</li>
+                        </ul>
+                    </li>
+                    <li>메뉴이야기
+                        <ul class="menu_d2">
+                            <li>커피이야기</li>
+                            <li>디저트이야기</li>
+                            <li>델리이야기</li>
+                        </ul>
+                    </li>
+                    <li>브랜드 지원
+                        <ul class="menu_d2">
+                            <li>로스팅 플랜트</li>
+                            <li>디저트 플랜트</li>
+                            <li>C&D센터</li>
+                            <li>SEP센터</li>
+                        </ul>
+                    </li>
+                    <li>투썸플레이스 앱 & 멤버십
+                        <ul class="menu_d2">
+                            <li>투썸플레이스 앱 소개</li>
+                            <li>투썸플레이스 멤버십
+                                <ul class="menu_d3">
+                                    <li>멤버십 소개</li>
+                                    <li>등급 및 혜택</li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    </li>
+
+                    <li>가맹점 창업안내</li>
+                        <ul class="menu_d2">
+                            <li>가맹점 개설 안내</li>
+                            <li>창업설명회</li>
+                            <li>온라인 창업상담신청</li>
+                            <li>FAQ</li>
+                            <li>가맹점 전용 금융상품</li>
+                        </ul>
+                    <li>새소식 & 공지</li>
+                        <ul class="menu_d2">
+                            <li>공지사항</li>
+                            <li>보도자료</li>
+                        </ul>
+                </ul>
+            </div>
+
+            <div class="all_menu" id="balck_icon">
+                <img src="img/icon/ico_24_allmenu_white.svg">
+            </div>
+
+        </nav>
+    </header>
+
+<script src="main.js"></script>
+</body>
+</html>
+
+
+
+
+
+   <div class="all_menu">
+        <ul>
+            <li>투썸플레이스
+                <ul>
+                    <li id="small">비전체계</li>
+                    <li id="small">연혁</li>
+                    <li id="small">BI</li>
+                    <li id="small">20주년 이야기</li>
+                    <li id="small">Recruit</li>
+                </ul>
+            </li>
+            <li>커피이야기
+                <ul>
+                    <li>디저트 이야기</li>
+                    <li>델리이야기</li>
+                </ul>
+            </li>
+            <li>로스팅 플랜트
+                <ul>
+                    <li>디저트 플랜트</li>
+                    <li>C&D센터</li>
+                    <li>SEP센터</li>
+                </ul>
+            </li>
+            <li>투썸플레이스 앱 소개
+                <ul><li>투썸플레이스 멤버십
+                    <ul>
+                        <li id="small">멤버십 소개</li>
+                        <li id="small">등급 및 혜택</li>
+                    </ul>
+                </li></ul>
+            </li>
+            <li>가맹점 개설 안내
+                <ul>
+                    <li>창업설명회</li>
+                    <li>온라인 창업상담신청</li>
+                    <li>FAQ</li>
+                    <li>가맹점 전용 금융상품</li>
+                </ul>
+            </li>
+            <li>공지사항
+                <ul><li>보도자료</li></ul></li>
+        </ul>
+    </div>
